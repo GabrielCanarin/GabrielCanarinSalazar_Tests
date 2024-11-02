@@ -1,0 +1,4 @@
+application:
+  base_url: "https://google.com"
+  giassi_home: "https://www.giassi.com.br/"
+  

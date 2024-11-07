@@ -20,7 +20,7 @@ export default class HomeElements extends BaseElements {
   }
 
   getFilterButton(): Locator {
-    return this.page.locator('input[value="Higiene e Beleza"]');
+    return this.page.locator('#category-1-higiene-e-beleza');
   }
 
   getFillFilterButton(): Locator {
